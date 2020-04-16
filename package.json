@@ -2,7 +2,7 @@
   "name": "fizzbuzz",
   "version": "1.0.0",
   "description": "",
-  "main": "FizzBuzzShould.test.js",
+  "main": "FizzBuzz.test.js",
   "scripts": {
     "test": "jest"
   },
